@@ -26,7 +26,7 @@
 ## Connect With Me :
 <p align="left">
 
-<a href="https://www.linkedin.com/in/ppuuddaa/" target="_blank"><img src="https://img.shields.io/badge/-Abdelrhman%20Ayman-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/0xkv340/" target="_blank"><img src="https://img.shields.io/badge/-Abdelrhman%20Ayman-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 
 </p>
