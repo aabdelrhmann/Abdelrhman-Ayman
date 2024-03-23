@@ -12,8 +12,9 @@
 
 ## 📚 Licenses & certifications
 
+- Network+
 - CompTIA Security+ (SY0-601)
--  eJPTv1
+- eJPTv1 (elearn security)
 
 
 
