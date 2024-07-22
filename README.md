@@ -3,7 +3,7 @@
 </h1></a>
 </h1>
 
-<h6 align="center">Senior Software Engineering student interested in learning more and more technologies and gaining more experience in software development , technical problem solving and interested in cyber security especially web application penetration testing , Red teaming and i have a strong background in information technology .</h6>
+<h6 align="center">Fresh Graduated Software Engineer interested in learning more and more technologies and gaining more experience in software development , technical problem solving and interested in cyber security especially web application penetration testing , Red teaming and i have a strong background in information technology .</h6>
 
 
 
